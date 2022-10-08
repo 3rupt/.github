@@ -1,14 +1,14 @@
-#  <img src="https://user-images.githubusercontent.com/61543012/194726651-de123292-4dff-4cea-bcf2-e01a41133641.png" height="35" width="35" align-items="center" justify-content="center" /> Sectorverse
-We now understand that the financial markets include the success and influence of decentralized exchanges. The Sectorverse aims to be an all inclusive measurement of the various secotrs of the global markets INCLUDING thier decentralized counterparts. 
+#  <img src="https://user-images.githubusercontent.com/61543012/194726852-f0030ee1-51d3-4d17-8105-b34364288223.png" height="35" width="35" align-items="center" justify-content="center" /> 3RUPT
+It is importatnt to query the blockchain for meaningful metrics on upcoming trends in the metaverse. Let us guide you using data analytics and market sentiment.
 
-## Sectors in the metaverse
+## Know when the next big thing in the metaverse is about to 3RUPT
 
-💸 Know where to invest your capital!
+😡 Frustrated? Can't seem to buy before the blast-off? 
 
-📈 Know when you should restore your investments to stable and steady currencies.
+❓ Use pre-built queries or custom queries, even third-party queries from other dapps.
 
-📉 Know why things are going down so you can position your portfolio accordingly.
+🔺🔻 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
 
-💹 Choose your preferred currency to view the platform from.
+🚩 Be the FIRST to get the latest and the greatest.
 
 #### An ECE Dapp
